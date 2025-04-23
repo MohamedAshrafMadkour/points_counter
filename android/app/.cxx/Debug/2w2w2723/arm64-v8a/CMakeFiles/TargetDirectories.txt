@@ -1,0 +1,2 @@
+D:/Projects/points_counter/android/app/.cxx/Debug/2w2w2723/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Projects/points_counter/android/app/.cxx/Debug/2w2w2723/arm64-v8a/CMakeFiles/rebuild_cache.dir
